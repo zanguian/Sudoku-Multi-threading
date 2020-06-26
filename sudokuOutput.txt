@@ -1,0 +1,56 @@
+Please return the name of the sudoku text file.
+70000db3f000 TRow: 0, BRow: 8, LCol: 1, RCol: 1 valid!
+70000dabc000 TRow: 0, BRow: 8, LCol: 0, RCol: 0 valid!
+70000dbc2000 TRow: 0, BRow: 8, LCol: 2, RCol: 2 valid!
+70000dcc8000 TRow: 0, BRow: 8, LCol: 4, RCol: 4 valid!
+70000dd4b000 TRow: 0, BRow: 8, LCol: 5, RCol: 5 valid!
+70000ddce000 TRow: 0, BRow: 8, LCol: 6, RCol: 6 valid!
+70000dc45000 TRow: 0, BRow: 8, LCol: 3, RCol: 3 valid!
+70000de51000 TRow: 0, BRow: 8, LCol: 7, RCol: 7 valid!
+70000ded4000 TRow: 0, BRow: 8, LCol: 8, RCol: 8 valid!
+70000df57000 TRow: 0, BRow: 0, LCol: 0, RCol: 8 valid!
+70000dfda000 TRow: 1, BRow: 1, LCol: 0, RCol: 8 valid!
+70000e05d000 TRow: 2, BRow: 2, LCol: 0, RCol: 8 valid!
+70000e0e0000 TRow: 3, BRow: 3, LCol: 0, RCol: 8 valid!
+70000e163000 TRow: 4, BRow: 4, LCol: 0, RCol: 8 valid!
+70000e1e6000 TRow: 5, BRow: 5, LCol: 0, RCol: 8 valid!
+70000e269000 TRow: 6, BRow: 6, LCol: 0, RCol: 8 valid!
+70000e2ec000 TRow: 7, BRow: 7, LCol: 0, RCol: 8 valid!
+70000e36f000 TRow: 8, BRow: 8, LCol: 0, RCol: 8 valid!
+70000e3f2000 TRow: 0, BRow: 2, LCol: 0, RCol: 2 valid!
+70000e475000 TRow: 0, BRow: 2, LCol: 3, RCol: 5 valid!
+70000e4f8000 TRow: 0, BRow: 2, LCol: 6, RCol: 8 valid!
+70000e57b000 TRow: 3, BRow: 5, LCol: 0, RCol: 2 valid!
+70000e5fe000 TRow: 3, BRow: 5, LCol: 3, RCol: 5 valid!
+70000e681000 TRow: 3, BRow: 5, LCol: 6, RCol: 8 valid!
+70000e704000 TRow: 6, BRow: 8, LCol: 0, RCol: 2 valid!
+70000e787000 TRow: 6, BRow: 8, LCol: 3, RCol: 5 valid!
+70000e80a000 TRow: 6, BRow: 8, LCol: 6, RCol: 8 valid!
+Column: 70000DABC000 valid
+Column: 70000DB3F000 valid
+Column: 70000DBC2000 valid
+Column: 70000DC45000 valid
+Column: 70000DCC8000 valid
+Column: 70000DD4B000 valid
+Column: 70000DDCE000 valid
+Column: 70000DE51000 valid
+Column: 70000DED4000 valid
+Row: 70000DF57000 valid
+Row: 70000DFDA000 valid
+Row: 70000E05D000 valid
+Row: 70000E0E0000 valid
+Row: 70000E163000 valid
+Row: 70000E1E6000 valid
+Row: 70000E269000 valid
+Row: 70000E2EC000 valid
+Row: 70000E36F000 valid
+Subgrid: 70000E3F2000 valid
+Subgrid: 70000E475000 valid
+Subgrid: 70000E4F8000 valid
+Subgrid: 70000E57B000 valid
+Subgrid: 70000E5FE000 valid
+Subgrid: 70000E681000 valid
+Subgrid: 70000E704000 valid
+Subgrid: 70000E787000 valid
+Subgrid: 70000E80A000 valid
+Sudoku Puzzle: valid
