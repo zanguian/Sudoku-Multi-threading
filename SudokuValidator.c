@@ -6,7 +6,7 @@ FILE *path;
 
 typedef int bool;
 
-#define TRUE 1
+#define TRUE 1 
 #define FALSE 0
 
 #define NUMBER_OF_CHILD 9
